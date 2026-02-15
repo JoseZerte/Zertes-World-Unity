@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - trampa
   - Enemigo
+  - Checkpoint
+  - Meta
   layers:
   - Default
   - TransparentFX
@@ -41,6 +43,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: fondo
+    uniqueID: 3197985697
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
